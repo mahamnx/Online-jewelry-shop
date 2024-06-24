@@ -1,0 +1,58 @@
+Project: Online Jewelry Shop using PHP/MySQLi
+
+About
+The Online Jewelry Shop is a simple PHP/MySQLi project that can help a jewelry shop or store to provide their customer with an online ordering system. The system has 2 sides of the user interface which is one is for the admin user or the jewelry's management side and the other one is for the customer side which is the website of the system. The system requires the customers to register on the website in order to do some transactions with the jewelry shop. The online shop is easy to use and the features are most likely to another online store shop. The jewelry product is organized by the item categories to help the customers to filter the products by the jewelry categories. The system also allows setting a color, sizes, sample images, and detailed description in each product. The sizes and colors fields are not required because it is possible that some of the jewelry product does not require this field.
+
+The admin users are the users that are in charge to manage and maintain the data of the system especially the jewelry product details that the shop's sells. The admin user also in charge of managing the status of the orders of the customers.
+
+Features
+Admin Side
+Login Page
+The page where the system admin submits their system credentials in order to access the admin side of the system.
+Home Page
+The page where the admin user will be redirected by default after logging into the admin side of the system.
+New Category Page
+The page where an admin creates a new jewelry category.
+Category List
+The page where the jewelry categories are a list and navigated to update or delete a certain category.
+New Product Page
+The page where an admin adds new products.
+Product List
+The page where the jewelry items or the products are listed and navigated to view, update, or delete the items.
+Orders Page
+The where can admin manage the orders of the customers.
+New User Page
+The page where an admin creates a new admin or customer's system credentials.
+Users list
+The page where the system users are listed and managed.
+Customer Side
+Home Page
+The default page of the system when customers browse the website. This page displays the jewelry product that the shop's selling and the items displayed can be filtered using the category filter checklist located at the right side of the page and can also filter using keywords by entering a keyword at the search box above the products.
+Product View Page
+The page where the detailed information of the products is being displayed and the page also where the customer adds the product to his/her cart.
+Cart List Page
+The page where the customers' selected products are listed. This is the page where can customer proceed to the checkout process of his/her order.
+My Order Page
+The page where the customer's orders are listed.
+Login Page
+The page where the customers submit their website credentials in order to access all the functionalities of the website.
+Signup Page
+The page where the new customers created their website credentials.
+The Online Jewelry Shop was developed using HTML, PHP/MySQLi, CSS, JavaScript (jQuery/Ajax), and Bootstrap for the design. The source code is fully functional and easy to modify or enhance. Follow the instruction below to have an actual experience using this simple project.
+
+How to Run
+Download the source code and extract the zip file.
+Download or set up any local web server that runs PHP script.
+Open the web-server database and create a new database name it jewelry_db.
+Import the SQL file located in the database folder of the source code.
+Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
+Open a web browser and browse the project. E.g [http://localhost/online-jewelry-shop] for the customer's side and [http://localhost/online-jewelry-shop/admin] for the admin side.
+Default Admin Access
+Email: admin@admin.com
+Password: admin123
+
+I hope this simple Online Jewelry Shop will help you with what you are looking for, feel free to download and modify the source code.
+
+Explore more on this website for more source codes and tutorials.
+
+Enjoy!
